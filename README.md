@@ -21,6 +21,6 @@
   <b>KESIMPULAN</b>
 </p>
 
-> - Dengan composer kita dapat mengelola dan mengunduh library yang diperlukan secara otomatis, menghindari masalah kesesuaian versi
+> - Aplikasi ini di buat untuk memcatat yang ingin kita lakukan
 
 ---
